@@ -14,7 +14,6 @@
             </ul>
         </div>
     <h2>Jeff Is In Austin</h2>
-    <h2>Jeff Is Lives In Missouri</h2>
         <div id="list-person" class="content scaffold-list" role="main">
             <h1><g:message code="default.list.label" args="[entityName]" /></h1>
             <g:if test="${flash.message}">
